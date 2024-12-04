@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(210, 84, 90);
+}
+
+.container{
+    text-align: center;
+    margin-top: 25px;
+}
+
+button{
+    width: 100px;
+    height: 135px;
+    background-color: #fff;
+    font-size: 40px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    margin-inline: 13px;
+}
+
+h1{
+    color: #020101;
+    font-size: 40px;
+}
